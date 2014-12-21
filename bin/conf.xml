@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--ServFTP Configuration-->
+<Configurations>
+  <Configuration ID="Main">
+    <IP>192.168.0.34</IP>
+    <Port>21</Port>
+    <Root>C:\FTPRoot</Root>
+  </Configuration>
+  <Configuration ID="BlackList">
+    <AccessIs>False</AccessIs>
+    <IP>10.</IP>
+  </Configuration>
+  <Configuration ID="Anon">
+    <AllowAnon>True</AllowAnon>
+    <AnyPW>False</AnyPW>
+    <UPLoad>True</UPLoad>
+    <Folder>\pub</Folder>
+  </Configuration>
+  <Configuration ID="Sec">
+    <AllIPAllowed>True</AllIPAllowed>
+    <FullSYST>True</FullSYST>
+    <PasvIPPro>True</PasvIPPro>
+    <AllowPort>True</AllowPort>
+    <AntiBounce>True</AntiBounce>
+  </Configuration>
+  <Configuration ID="Welcome">
+    <InclVer>True</InclVer>
+    <Row>----------------------------=/\=----------------------------
+Welcome to ServFTP, this is a Beta version test-only server
+
+If you are connected to this server, please send an e-mail to servftp@lucamauri.net
+
+ServFTP, Freedom to Transfer
+----------------------------=/\=----------------------------</Row>
+  </Configuration>
+  <Configuration ID="ACL">
+    <IP>10.10.*.*</IP>
+  </Configuration>
+  <Configuration ID="Modified">
+    <Folders>03/08/2003 16.01.00</Folders>
+    <Network>03/08/2003 16.01.00</Network>
+    <Options>03/08/2003 16.01.00</Options>
+    <Security>03/08/2003 16.01.00</Security>
+    <Users>22/06/2003 14.50.23</Users>
+  </Configuration>
+</Configurations>

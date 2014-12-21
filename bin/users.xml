@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--ServFTP Users XML repository-->
+<Users>
+  <User ID="dummy">
+    <Name>Dummy User</Name>
+    <HomeDir>\</HomeDir>
+    <UPload>True</UPload>
+    <DOWNload>True</DOWNload>
+    <TotalLogin>1</TotalLogin>
+    <FirstLogin>03/08/2003 16.01.00</FirstLogin>
+    <LastLogin>03/08/2003 16.01.00</LastLogin>
+    <Password>827ccb0eea8a706c4c34a16891f84e7b</Password>
+    <Active>False</Active>
+  </User>
+  <User ID="luca">
+    <Name>Luca Mauri</Name>
+    <HomeDir>\</HomeDir>
+    <UPload>True</UPload>
+    <DOWNload>True</DOWNload>
+    <TotalLogin>121</TotalLogin>
+    <FirstLogin>03/08/2003 16.01.00</FirstLogin>
+    <LastLogin>06/07/2003 8.26.01</LastLogin>
+    <Password>189bbbb00c5f1fb7fba9ad9285f193d1</Password>
+    <Active>True</Active>
+  </User>
+  <User ID="testuser">
+    <Name>Test User</Name>
+    <HomeDir>\prova</HomeDir>
+    <UPload>False</UPload>
+    <DOWNload>True</DOWNload>
+    <TotalLogin>0</TotalLogin>
+    <FirstLogin>
+    </FirstLogin>
+    <LastLogin>
+    </LastLogin>
+    <Password>098f6bcd4621d373cade4e832627b4f6</Password>
+    <Active>True</Active>
+  </User>
+</Users>

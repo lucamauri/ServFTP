@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--ServFTP Anonymous Accessess XML repository-->
+<AnonUsers>
+  <AnonUser ID="prova@libero.it">
+    <TotalLogin>1</TotalLogin>
+    <FirstLogin>03/08/2003 16.01.00</FirstLogin>
+    <LastLogin>03/08/2003 16.01.00</LastLogin>
+  </AnonUser>
+  <AnonUser ID="dummy@dummy.com">
+    <TotalLogin>1</TotalLogin>
+    <FirstLogin>03/08/2003 16.01.00</FirstLogin>
+    <LastLogin>03/08/2003 16.01.00</LastLogin>
+  </AnonUser>
+</AnonUsers>
